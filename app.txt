@@ -1,5 +1,5 @@
 Collaboration Demo Project
-Version 1.0
+Version B 1.0
 
 Features:
 - Basic GitHub collaboration workflow
